@@ -7,6 +7,12 @@
       "skillPath": "category/creation/drama-creator/SKILL.md",
       "computedHash": "4af7088c2056d394a6526aee006f0ff8a4f514d0eafbf6f681894417f71a7128"
     },
+    "image-to-text": {
+      "source": "pascalorg/skills",
+      "sourceType": "github",
+      "skillPath": "image-to-text/SKILL.md",
+      "computedHash": "8a2c0dd166cbac2462d887529b8821d5c573212be4fffa1f21ffd630d7594adf"
+    },
     "prompt-library": {
       "source": "smithery.ai",
       "sourceType": "well-known",
