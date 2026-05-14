@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "skills": {
+    "drama-creator": {
+      "source": "vangongwanxiaowan/screen-creative-skills",
+      "sourceType": "github",
+      "skillPath": "category/creation/drama-creator/SKILL.md",
+      "computedHash": "4af7088c2056d394a6526aee006f0ff8a4f514d0eafbf6f681894417f71a7128"
+    },
+    "prompt-library": {
+      "source": "smithery.ai",
+      "sourceType": "well-known",
+      "computedHash": "d30a46cc41916938b7a4eb05a545697d40b7ea5c49d501e58e8c21d9e09db931"
+    }
+  }
+}
